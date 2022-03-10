@@ -12,4 +12,7 @@ main() {
 	double area = pi * (pow(raio, 2));
 	print(area.toStringAsFixed(2));
 
+	double perimeter = 2 * pi * raio;
+	print(perimeter.toStringAsFixed(2));
+
 }
