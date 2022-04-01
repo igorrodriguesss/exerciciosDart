@@ -19,5 +19,6 @@ var linha = stdin.readLineSync() ?? "0.0 0.0 0.0";
   double QUADRADO = (B*B);
   print('QUADRADO:' + QUADRADO.toStringAsFixed(3));
 
+teste
   double RETANGULO = (A*B);
   print('RETANGULO:' + RETANGULO.toStringAsFixed(3));
