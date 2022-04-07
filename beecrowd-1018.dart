@@ -6,7 +6,7 @@ void main()
   
      int notas100 = (valor ~/ 100);
      valor = (valor%100);
-
+    print(valor);
      int notas50 = (valor ~/ 50);
      valor = (valor%50);
 
